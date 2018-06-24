@@ -26,5 +26,6 @@ Please read [CONTRIBUTING.md] for details on my code of conduct, and the process
 
 This project is licensed under the MIT License - see the [LICENSE.md] file for details
 
-
+## Acknowledgements
+A Special thanks to [Billie Thompson](https://github.com/PurpleBooth) for the ReadMe and Contributing Templates.
 
