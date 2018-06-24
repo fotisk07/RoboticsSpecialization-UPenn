@@ -17,7 +17,7 @@ You need to have Matlab installed if you want to run the programs on your machin
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/fotisk07/RoboticsSpecialization-UPenn/blob/master/CONTRIBUTING.md) for details on my code of conduct, and the process for submitting pull requests. 
+Please read [CONTRIBUTING.md](https://github.com/fotisk07/RoboticsSpecialization-UPenn/blob/master/CONTRIBUTING.md) for the process for submitting pull requests. 
 
 ## Authors
 
