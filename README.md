@@ -17,14 +17,14 @@ You need to have Matlab installed if you want to run the programs on your machin
 
 ## Contributing
 
-Please read [CONTRIBUTING.md] for details on my code of conduct, and the process for submitting pull requests. 
+Please read [CONTRIBUTING.md](https://github.com/fotisk07/RoboticsSpecialization-UPenn/blob/master/CONTRIBUTING.md) for details on my code of conduct, and the process for submitting pull requests. 
 
 ## Authors
 
 * **Fotios Kapotos** - *Initial work* 
 
 
-This project is licensed under the MIT License - see the [LICENSE.md] file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/fotisk07/RoboticsSpecialization-UPenn/blob/master/LICENSE) file for details
 
 ## Acknowledgements
 A Special thanks to [Billie Thompson](https://github.com/PurpleBooth) for the ReadMe and Contributing Templates.
