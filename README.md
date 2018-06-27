@@ -2,9 +2,13 @@
 
 This repo contains the solutions from all the major programming assignements in this Coursera Course.
 1. Aerial Robotics concerns developping a 3d PD controller and a trajectory generator for a `quadcopter`.
+
 2. Computational Motion planning deals with Path Planning using `Djikstras and A* Algoritmh`, using Djikstras to navigate a `3 degrees of freedom arm ` avoiding obstacles, and implementing `gradient descend` for finding optimal path(2d Space).
-3.Perception contains the implementation of Dolly Zoom, image projection and a basic `AR`.
+
+3.Perception contains the implementation of Dolly Zoom, image projection and a basic `AR` aplication
+
 4. Estimation and Learning entails `Color Learning and Target detection`, `Kalman Filtering`, `Occupancy Grid Mapping` and `Particle Filter Based Localisation`.
+
 5. The Capstone Project is the impementation of a `Mobile Inverted Pendulum`. 
 
 ## Getting Started
@@ -29,3 +33,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 ## Acknowledgements
 A Special thanks to [Billie Thompson](https://github.com/PurpleBooth) for the ReadMe and Contributing Templates.
 
+3
