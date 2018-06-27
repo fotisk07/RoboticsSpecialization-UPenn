@@ -3,7 +3,7 @@
 This repo contains the solutions from all the major programming assignements in this Coursera Course.
 1. Aerial Robotics concerns developping a 3d PD controller and a trajectory generator for a `quadcopter`.
 
-2. Computational Motion planning deals with Path Planning using `Djikstras and A* Algoritmh`, using Djikstras to navigate a `3 degrees of freedom arm ` avoiding obstacles, and implementing `gradient descend` for finding optimal path(2d Space).
+2. Computational Motion planning deals with Path Planning using `Djikstras and A* Algoritmh`, using Djikstras to navigate a `3 degrees of freedom arm ` avoiding obstacles, and implementing `gradient descend` for finding optimal path. 
 
 3.Perception contains the implementation of Dolly Zoom, image projection and a basic `AR` aplication
 
