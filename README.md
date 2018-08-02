@@ -5,7 +5,7 @@ This repo contains the solutions from all the major programming assignements in 
 
 2. Computational Motion planning deals with Path Planning using `Djikstras and A* Algoritmh`, using Djikstras to navigate a `3 degrees of freedom arm ` avoiding obstacles, and implementing `gradient descend` for finding optimal path. 
 
-3.Perception contains the implementation of Dolly Zoom, image projection and a basic `AR` aplication
+3. Perception contains the implementation of Dolly Zoom, image projection and a basic `AR` aplication
 
 4. Estimation and Learning entails `Color Learning and Target detection`, `Kalman Filtering`, `Occupancy Grid Mapping` and `Particle Filter Based Localisation`.
 
